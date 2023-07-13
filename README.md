@@ -2,6 +2,7 @@
 ---
 ##### Introduction
 - [ ] [Introduction to Computer Science — `iCP`](https://usaco.guide/)
+- [ ] [Overview of Computer Science — `agCS`]()
 ---
 ##### Core CS
 - [ ] [Developmental Mathematics](https://www.amazon.com/Foundation-Maths-Dr-Anthony-Croft/dp/1292289686)
